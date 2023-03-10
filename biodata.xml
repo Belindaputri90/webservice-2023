@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<curiculumVitae>
+    <personalInfo>
+        <nama>Belinda Dwi Sukma Putri</nama>
+        <jenisKelamin>Perempuan</jenisKelamin>
+        <tempatLahir>Denpasar</tempatLahir>
+        <tanggalLahir>30 November 2001</tanggalLahir>
+        <Usia>21 Tahun</Usia>
+        <kewarganegaraan>Indonesia</kewarganegaraan>
+        <agama>Islam</agama>
+        <tinggiBadan>159 cm</tinggiBadan>
+        <beratBadan>49 kg</beratBadan>
+        <alamat>Jl Nusakambangan GG Kamboja 10, Denpasar Barat, Denpasar, Bali</alamat>
+        <nomorTelepon>081237309367</nomorTelepon>
+        <alamatEmail>belindaputri90@gmail.com</alamatEmail>
+    </personalInfo>
+
+    <informasiPendidikan>
+        <kindergarten>TK Kumara Jaya</kindergarten>
+        <sekolahDasar>SDN 21 Dauh Puri Kauh</sekolahDasar>
+        <sekolahMenengahPertama>
+            MT's Miftahul'Ulum
+        </sekolahMenengahPertama>
+        <sekolahMenengahKejuruan>
+            SMK TI Bali Global Denpasar
+        </sekolahMenengahKejuruan>
+    </informasiPendidikan>
+
+    <pengalamanBekerja>
+        <pertama>CV Indonesia Global Sarana as Internship Website Developer</pertama>
+        <kedua>Grab Bali Office as Data Entry and Collection Support Coordinator</kedua>
+        <ketiga>PT. Baliola Adi Mahaduta as UI/UX Designer intern</ketiga>
+        <keempat>PT. Baliola Adi Mahaduta as Software Quality Assurance</keempat>
+    </pengalamanBekerja>
+</curiculumVitae>
